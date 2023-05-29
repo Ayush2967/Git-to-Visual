@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="128" src="https://i.imgur.com/t3MTsVm.png">
+  <img width="48" src="ayush.png">
 </p>
 
 # github-to-vscode
