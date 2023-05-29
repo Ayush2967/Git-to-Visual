@@ -1,8 +1,6 @@
-<p align="center">
-  <img width="48" src="ayush.png">
-</p>
 
-# github-to-vscode
+
+# Git-to-Visual
 An extension that allows quickly opening github repos with vscode.dev or cloning a repo directly to vscode.
 
 ## How to use
@@ -18,15 +16,3 @@ Another option is to right click on the repository's page and select "Open with 
 ## Keyboard shortcuts:
 - Clone in vscode: `Ctrl/Command + Shift + Down Arrow`
 - Open in vscode.dev: `Ctrl/Command + Shift + Up Arrow`
-
-## How to install
-You can install github-to-vscode directly from Chrome's Web Store by clicking [here](https://chrome.google.com/webstore/detail/github-to-vscode/lcajicegcfldjbnodelkdmgajajdcgjd).
-
-Otherwise, you can manually install the extension by following the instructions below:
-
-1. Clone this repo
-2. Open Chrome (or your preferred Chromium based browser) and navigate to the extensions page (`chrome://extensions` on Chrome)
-3. Enable developer mode (upper right corner) and click the "Load unpacked" button
-4. Find the cloned repo on your computer and select it, then press "Open"
-
-The extension is loaded into your browser and ready to be used!
