@@ -26,6 +26,8 @@ Another option is to right click on the repository's page and select "Open with 
 6. Click on the "Load unpacked" button.
 7. Select the folder where you extracted the extension files.
 8. The Extract Text from Image extension will now be installed and ready to use.
+9. <hr>
+10. 
 
 <p align="center" >
  Made with ❤️ by Ayush Jain</p>
